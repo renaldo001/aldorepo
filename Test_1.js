@@ -13,6 +13,7 @@ function solution(record) {
         if ( answer[j].userid === userid ){
           answer[j].nickname === nickname
         }
+        break;
       }
     }
   }
