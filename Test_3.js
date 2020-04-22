@@ -7,6 +7,5 @@ function solution(relation) {
             }
         }
     }
-    // sorry i really cant understand this one, hope you would teach me someday.
     return answer;
 }
